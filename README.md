@@ -1,7 +1,5 @@
 # Smart-Contract-Management---ETH-AVAX-2
 
-Creating a `README.md` file for your GitHub repository is crucial for providing information about your project, its purpose, setup instructions, and any other relevant details. Below is a template you can use to create your `README.md` file:
-
 ```markdown
 # Smart Contract Management Project: Function Frontend
 
