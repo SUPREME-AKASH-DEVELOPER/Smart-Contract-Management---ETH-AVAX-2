@@ -102,14 +102,11 @@ This project is licensed under the MIT License -
 .
 ```
 https://www.loom.com/share/b9952ced44bb4bb5b2c9e451f5ecd1bf?sid=46a682b1-4d72-4b58-9a88-b6285bd87f1c
-### Instructions:
 
-1. **Replace placeholders:**
-   - Replace `your-username` with your GitHub username or organization name.
-   - Update the paths and commands with your actual project structure and setup.
+## Pictures
+![image](https://github.com/SUPREME-AKASH-DEVELOPER/Smart-Contract-Management---ETH-AVAX-2/assets/142366831/cf04c467-fa5e-4606-9b65-59dcd991e264)
+![image](https://github.com/SUPREME-AKASH-DEVELOPER/Smart-Contract-Management---ETH-AVAX-2/assets/142366831/6271dc46-e2a1-4050-8e57-366e0e6c9924)
 
-2. **Customize as needed:**
-   - Add more sections or details specific to your project.
    - Include screenshots or diagrams to enhance understanding if needed.
 
 3. **License:**
