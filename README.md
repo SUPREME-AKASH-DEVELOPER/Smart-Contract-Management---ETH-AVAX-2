@@ -99,17 +99,10 @@ smart-contract-management/
 ## License
 
 This project is licensed under the MIT License - 
-.
-```
+
 https://www.loom.com/share/b9952ced44bb4bb5b2c9e451f5ecd1bf?sid=46a682b1-4d72-4b58-9a88-b6285bd87f1c
 
 ## Pictures
 ![image](https://github.com/SUPREME-AKASH-DEVELOPER/Smart-Contract-Management---ETH-AVAX-2/assets/142366831/cf04c467-fa5e-4606-9b65-59dcd991e264)
 ![image](https://github.com/SUPREME-AKASH-DEVELOPER/Smart-Contract-Management---ETH-AVAX-2/assets/142366831/6271dc46-e2a1-4050-8e57-366e0e6c9924)
 
-   - Include screenshots or diagrams to enhance understanding if needed.
-
-3. **License:**
-   - Ensure to include a `LICENSE` file with appropriate license details if not already included.
-
-This `README.md` template provides a structured approach to document your project and guide users on how to set it up and use it effectively. Adjust it according to your specific project details and requirements.
