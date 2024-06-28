@@ -98,9 +98,10 @@ smart-contract-management/
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - 
+.
 ```
-
+https://www.loom.com/share/b9952ced44bb4bb5b2c9e451f5ecd1bf?sid=46a682b1-4d72-4b58-9a88-b6285bd87f1c
 ### Instructions:
 
 1. **Replace placeholders:**
